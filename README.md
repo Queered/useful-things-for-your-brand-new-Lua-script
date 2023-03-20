@@ -2,6 +2,7 @@ I worked on these libraries when I got bored, decided to release all of them you
 
 Libraries:
 
+https://github.com/Queered/BeizerCurvesLib/ - beizer curves lib
 https://github.com/Queered/killSayLib - killsay lib
 https://github.com/Queered/TweeningLib - tweening lib (might be broken)
 https://github.com/Queered/VisualizationLib - visualization lib (useless unless you want to learn about cframe, vector3 values)
